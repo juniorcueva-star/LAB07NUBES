@@ -1,0 +1,10 @@
+*.pem
+*.key
+.env
+__pycache__/
+*.pyc
+.venv/
+*.log
+*.sqlite3
+*.db
+*.tmp
